@@ -5,6 +5,9 @@
 - 성능 최적화
 - **스프링 시큐리티**의 심화 기능을 활용한 사용자 권한 관리
 
+## 트러블 슈팅
+https://velog.io/@eunkyo789/TIL-20241011-%EC%A3%BC%ED%8A%B9%EA%B8%B0-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C
+
 ## 요구 사항
 
 ## Level. 1
