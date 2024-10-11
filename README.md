@@ -129,7 +129,5 @@ Spring Security를 도입하기로 결정했어요!
  
 
 ## [트러블슈팅]
-[QueryDSL 관련 트러블슈팅]([https://coder-areum.tistory.com/100](https://velog.io/@eunkyo789/TIL-20241011-%EC%A3%BC%ED%8A%B9%EA%B8%B0-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C))
-
-
+https://velog.io/@eunkyo789/TIL-20241011-%EC%A3%BC%ED%8A%B9%EA%B8%B0-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C
 
